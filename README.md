@@ -5,7 +5,8 @@ A high-fidelity **e-commerce prototype** for a gaming & tech gear store, built f
 
 Hosted **separately** from my portfolio as its own site (per assignment feedback).
 
-- **Live site:** [https://nexusgear-tyler.netlify.app](https://nexusfear.netlify.app/)
+- **Live site:**[ [https://nexusgear-tyler.netlify.app](https://nexusfear.netlify.app/)](https://nexusfear.netlify.app/)
+- 
 - **Portfolio:** https://sensational-figolla-2b5e9f.netlify.app/
 - **Author:** Tyler Le · 300401351
 
